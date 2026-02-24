@@ -70,7 +70,7 @@ All protected routes are secured using a centralized layout with server-side aut
 ## 🚀 Getting Started
 
 1. Clone the repository  
-   git clone https://github.com/your-username/your-repo-name.git  
+   git clone https://github.com/MonikaDevHJ/Clerk_Auth 
 
 2. Install dependencies  
    npm install  
